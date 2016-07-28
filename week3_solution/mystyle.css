@@ -13,8 +13,14 @@ body {
   position: relative;
 }
 
+#nav-list li a {
+    color: #008866;
+    text-align: center;
+}
 
-
+h1{
+  text-align: center;
+}
 
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
@@ -30,10 +36,10 @@ body {
 .text-center{
   margin:10px;
   margin-top: 50px;
-  font-size: 250%;
+  
 }
 
-.text {
+.menu-text {
   background-color: gray;
   width: 90%;
   height: 1000px;
